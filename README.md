@@ -1,1 +1,1 @@
-# Single-SPA-demo
+# Host app
