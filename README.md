@@ -1,1 +1,1 @@
-# Single-SPA-demo
+# React app
